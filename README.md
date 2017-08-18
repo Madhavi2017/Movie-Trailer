@@ -98,7 +98,7 @@ fresh_tomatoes.open_movies_page(movies)
 ```
 I have created the class Movie and created instances for that in the same file, in order to make it clear, create a list of these movie objects and save it another file entertainment_center.py and by calling the constructor media.Movie()  we can instantiate movie objects, and this list of movies is given as input to open_movies_page() function to build the HTML file and display our website
 ### Run the program
-once we finish writing the code save the file and run the module as go to run and click run module-F5 and finally it displays our movie trailer website or we can run in command prompt as mentioned in the installation process like
+once we finish writing the code save the file and run the module as go to run and click run module-F5 (IDLE) and finally it displays our movie trailer website or we can run in command prompt as mentioned in the installation process like
 ```
 C:\Python27>cd C:\Python27\project1
 C:\Python27\project1>entertainment.py
